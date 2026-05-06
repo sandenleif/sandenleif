@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leiv.us"><b>Website</b></a> •
+  <a href="https://sanden-hosting.org"><b>Website</b></a> •
   <a href="https://github.com/leifsanden"><b>GitHub</b></a>
 </p>
 
